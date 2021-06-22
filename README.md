@@ -14,7 +14,7 @@
 ## Statistics 📊
 ![KristN's GitHub stats](https://github-readme-stats.vercel.app/api?username=KristN1&show_icons=true&theme=tokyonight)
 
-### Favourtite languages
+### Favourite languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KristN1&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/kristN1)
 
 ### WakaTime stats
