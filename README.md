@@ -13,6 +13,3 @@
 
 ## Statistics 📊
 ![KristN's GitHub stats](https://github-readme-stats.vercel.app/api?username=KristN1&show_icons=true&theme=tokyonight)
-
-### WakaTime stats
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KristN&layout=compact&show_icons=true&theme=tokyonight)](https://wakatime.com/@7c0ef1df-420f-4324-8b6b-c17ee9ffb612)
