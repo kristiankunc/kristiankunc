@@ -13,3 +13,7 @@
 
 ## Statistics 📊
 ![KristN's GitHub stats](https://github-readme-stats.vercel.app/api?username=KristN1&show_icons=true&theme=tokyonight)
+
+## Contact 📧
+
+![289411795423199232 Discord badge](https://dcbadge.vercel.app/api/shield/bot/289411795423199232?theme=discord)
