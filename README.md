@@ -16,4 +16,4 @@
 
 ## Contact 📧
 
-![289411795423199232 Discord badge](https://dcbadge.vercel.app/api/shield/bot/289411795423199232?theme=discord)
+[![289411795423199232 Discord badge](https://discord.c99.nl/widget/theme-4/289411795423199232.png)](https://discord.com/users/289411795423199232)
