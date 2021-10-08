@@ -2,7 +2,7 @@
 
 ## About me 🚀
 
- - I am a 14 year old student from the Czech Republic
+ - I am a 15 year old student from the Czech Republic
  - I started to learn code in April 2020
  - I usually code in Python & Javascript but I also like HTML and sometimes even CSS
 
