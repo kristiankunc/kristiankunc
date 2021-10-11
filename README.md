@@ -3,7 +3,7 @@
 ## About me 🚀
 
  - I am a 15 year old student from the Czech Republic
- - I started to learn code in April 2020
+ - I started coding in April 2020
  - I usually code in Python & Javascript but I also like HTML and sometimes even CSS
 
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="JS" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
