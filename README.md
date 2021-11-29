@@ -9,7 +9,7 @@
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="JS" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
 ## Currently Working on 🛠️
-[![Disconym Repo](https://github-readme-stats.vercel.app/api/pin/?username=KristN1&repo=CubeCraft-help-api&show_icons=true&theme=tokyonight)](https://github.com/KristN1/CubeCraft-help-api)
+[![Disconym Repo](https://github-readme-stats.vercel.app/api/pin/?username=World-Daily-Mood&repo=api&show_icons=true&theme=tokyonight)](https://github.com/World-Daily-Mood/api)
 
 ## Statistics 📊
 ![KristN's GitHub stats](https://github-readme-stats.vercel.app/api?username=KristN1&show_icons=true&theme=tokyonight)
