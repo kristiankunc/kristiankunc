@@ -6,7 +6,7 @@
  - I started coding in April 2020
  - I usually code in Python & Javascript
 
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="JS" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="PY" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 
 ## Currently Working on 🛠️
 [![Disconym Repo](https://github-readme-stats.vercel.app/api/pin/?username=KristN1&repo=CubeProfileScanner&show_icons=true&theme=tokyonight)](https://github.com/KristN1/CubeProfileScanner)
