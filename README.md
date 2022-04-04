@@ -2,9 +2,7 @@
 
 ## About me 🚀
 
- - I am a 15 year old student from the Czech Republic
- - I started coding in April 2020
- - I usually code in Python & Javascript
+ - I am a 15 year old student and back-end developer from the Czech Republic
 
 <img alt="PY" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 
