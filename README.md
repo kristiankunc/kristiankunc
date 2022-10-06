@@ -7,10 +7,10 @@
 <img alt="PY" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 
 ## Currently Working on 🛠️
-[![Disconym Repo](https://github-readme-stats.vercel.app/api/pin/?username=kristiankunc&repo=JustPlayMeSomething&show_icons=true&theme=nord)](https://github.com/kristiankunc/JustPlayMeSomething)
+[![Disconym Repo](https://readme-stats.kristn.co.uk/api/pin/?username=kristiankunc&repo=JustPlayMeSomething&show_icons=true&theme=nord)](https://github.com/kristiankunc/JustPlayMeSomething)
 
 ## Statistics 📊
-![KristN's GitHub stats](https://github-readme-stats.vercel.app/api?username=kristiankunc&show_icons=true&theme=nord)
+![KristN's GitHub stats](https://readme-stats.kristn.co.uk/api?username=kristiankunc&show_icons=true&theme=nord)
 
 ## Contact 📧
 
