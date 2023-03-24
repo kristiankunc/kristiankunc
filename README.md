@@ -7,7 +7,7 @@
 <img alt="PY" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 
 ## Currently Working on 🛠️
-[![Disconym Repo](https://readme-stats.kristn.co.uk/api/pin/?username=nerdpitch-cloud&repo=slimymc-bot&show_icons=true&theme=nord)](https://github.com/nerdpitch-cloud/slimymc-bot)
+[![file-upload Repo](https://readme-stats.kristn.co.uk/api/pin/?username=kristiankunc&repo=file-upload&show_icons=true&theme=nord)](https://github.com/nerdpitch-cloud/slimymc-bot)
 
 ## Statistics 📊
 ![KristN's GitHub stats](https://readme-stats.kristn.co.uk/api?username=kristiankunc&show_icons=true&theme=nord)
