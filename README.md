@@ -10,5 +10,6 @@
 ![KristN's GitHub stats](https://readme-stats.kristn.co.uk/api?username=kristiankunc&show_icons=true&theme=nord)
 
 ## Contact 📧
+[kristian@kristn.co.uk](mailto:kristian@kristn.co.uk)
 
 [![289411795423199232 Discord badge](https://discord.c99.nl/widget/theme-4/289411795423199232.png)](https://discord.com/users/289411795423199232)
