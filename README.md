@@ -1,4 +1,4 @@
-# Hi there, my name is Kristián 👋
+# 👋
 
 ## About me 🚀
 
