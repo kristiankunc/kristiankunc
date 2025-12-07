@@ -4,12 +4,42 @@
 
  - I am a 19 year old student and back-end developer from the Czech Republic
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)	![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+## Working on
+
+**SVS** Selfhosted Virtual Stack - a begginer friendly Docker based self-hosting solution inspired by Portainer [SVS](https://github.com/kristiankunc/svs-core)
+
+---
+
+### VATSIM UK
+
+Developer for [VATSIM UK](https://www.vatsim.uk/). Working with PHP and C/C++
+ - Main division website written in PHP with Laravel - [core](https://github.com/VATSIM-UK/core)
+ - EuroScope plugin written in C++ - [uk-controller-plugin](https://github.com/VATSIM-UK/uk-controller-plugin)
+ - Plugin dashboard written in PHP with Laravel and Filament [uk-controller-api](https://github.com/VATSIM-UK/uk-controller-api)
+ - Sector file for EuroScope compiling navigational and other data for EuroScope [UK-Sector-File](https://github.com/VATSIM-UK/UK-Sector-File)
+
+### Websites
+
+I did make a ton of websites mainly in Svelte or Django, 90% of them aren't worth mentioning
+
+ - Discord-based notifications for controller logons on VATSIM - [VatNotif](https://github.com/kristiankunc/VatNotif-web)
+ - A Svelte component to display occupied stands on VATSIM - [svelte-vatsim-stands](https://github.com/kristiankunc/svelte-vatsim-stands)
+
+ 
+### Games
+I do ocasionally touch gamedev. Made a browser tower defense game with Svelte and Unity - [Ratar TD](https://github.com/victoriousoft/tower-defense)
+
+### Misc
+
+- CLI for generating .gitignore files from official templates-  [generate-gitignore](https://github.com/kristiankunc/generate-gitignore)
+- A Czech python precompiler - [zmije](https://github.com/kristiankunc/zmije)
+- Dedicated POSTAL 2 server in Docker - [Postal2-Docker](https://github.com/kristiankunc/Postal2-Docker)
+- MySQL backup script runnable in Docker - [mysql-backup](https://github.com/kristiankunc/mysql-backup)
+- Crossword generator written in Java and Swing - [crossword](https://github.com/kristiankunc/crossword)
 
 ## Statistics 📊
 ![KristN's GitHub stats](https://readme-stats.kristn.co.uk/api?username=kristiankunc&show_icons=true&theme=nord)
 
 ## Contact 📧
-[kristian@kristn.co.uk](mailto:kristian@kristn.co.uk)
 
 [![289411795423199232 Discord badge](https://discord.c99.nl/widget/theme-4/289411795423199232.png)](https://discord.com/users/289411795423199232)
